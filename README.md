@@ -14,7 +14,7 @@ We bring as many people as possible together to provide facts to the public and 
 
 ### Objectives
 
-- By mid April 2020, we will have delivered on at least 5 testable hypothesis
+- By the 10th of April 2020, we will have delivered on at least 5 testable hypothesis
 
 ### Strategies
 
@@ -23,3 +23,12 @@ We bring as many people as possible together to provide facts to the public and 
 - We form a multi-disciplinary committee that guides and coordinates research and infrastructure work
 - We formulate hypothesis that multiple individuals or teams work on in parallel
 - We provide maximum transparency on how we derive testable, scientific hypothesis 
+
+### Actions
+
+- By the 16 of March we have the basic processes and tools in place to start the project
+- By the 16th of March we start recruiting people to join teh project
+- By the 20th of March 2020, we provide at least five data sets to the public
+- By the 23th of March 2020, we have recruited the committee, made of at least five researchers and data professionals
+
+
