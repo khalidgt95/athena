@@ -20,16 +20,19 @@ We bring as many people as possible together to provide facts to the public and 
 
 - We provide public access to high quality and daily updated data sets
 - We publicly share sound and validated knowledge 
-- We form a multi-disciplinary committee that guides and coordinates research and infrastructure work
-- We formulate hypothesis that multiple individuals or teams work on in parallel
-- We provide maximum transparency on how we derive testable, scientific hypothesis 
+- We form a multi-disciplinary committee consisting of researchers and data professional that guides and coordinates research and infrastructure work
+- We formulate hypothesis that multiple individuals or teams can work on in parallel
+- We provide maximum transparency on how we derive testable, scientific hypothesis
+- We encourage anybody to submit new hypothesis and to contribute to the project
+- We are constantly adjusting our processes to foster the highest impact possible given our scarce resources as a non-profit project
 
 ### Required Actions
 
-- By the 16 of March we have the basic processes and tools in place to start the project
-- By the 16th of March we start recruiting people to join teh project
-- By the 20th of March 2020, we provide at least five data sets to the public
-- By the 23th of March 2020, we have recruited the committee, made of at least five researchers and data professionals
+- By the 17th of March, we have the basic processes and tools in place to start the project
+- By the 18th of March we start recruiting people to join the project
+- By the 21th of March 2020, we provide at least five data sets to the public
+- By the 24th of March 2020, we have recruited the committee, made up of at least five researchers from various disciplines and data professionals
+
 
 ### Workstreams and Bootstrapping Hypothesis
 
