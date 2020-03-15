@@ -33,7 +33,7 @@ We bring as many people as possible together to provide facts to the public and 
 
 ### Workstreams and Bootstrapping Hypothesis
 
-1. "What we observe"
+1. **"What we observe"**
     * **Observations and assumptions** 
     
         Based on publicly available data from affected countries on infected, death and recovered cases, the spread seems to follow an exponential growth path. 
@@ -45,7 +45,7 @@ We bring as many people as possible together to provide facts to the public and 
         2. Mortality is non-homogenous across countries or regions, varies significantly between countries
   
 
-2. "What we suspect"
+2. **"What we suspect"**
     * **Observations and assumptions**
         
         Not everyone with a SARS-CoV-2 infection will feel ill. Some people may even contract the virus and not develop symptoms. When there are symptoms, they’re usually mild and tend to come on slowly. There are estimates taht 50% of cases of the coronavirus disease (COVID-19) take an asymptomatic course. Therefore a lot of cases have gone unnoticed as wide-spread testing is not available.
@@ -55,7 +55,7 @@ We bring as many people as possible together to provide facts to the public and 
         1. The real number of infected people is 300% higher than officially reported numbers.
         
 
-3. "What we need to know"
+3. **"What we need to know"**
     * **Observations and assumptions**
     
         COVID-19 seems to cause more severe symptoms in older adults and people with underlying health conditions, such as chronic heart or lung conditions. In some countries the age distribution of infected people does represent the general age distribution with the region or country.
