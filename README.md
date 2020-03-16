@@ -67,6 +67,17 @@ We bring as many people as possible together to provide facts to the public and 
     * **Hypothesis**
     
         1. Mortality adjusted by age and country is below 1%
+        
+4. **"What we speculate"**
+    * **Observations and assumptions**
+        
+        Testing for SARS-CoV-2 has been limited and apparently only carried out for people who have shown severe symptoms. Switzerland for example only tests elderly and obviously sick people. The tests used so far have no reported statistics on their false positive or false negative percentages. The amount of deaths accounted to SARS-CoV-2 could be misleading if for example a lot of false positives are generated.
+        
+    * **Hypothesis**
+    
+        1. The differences in testing, widespread versus focused, lead to significant differences in case numbers (infected, recovered, deaths)
+        2. 50% of all deaths can not be directly linked to a SARS-CoV-2 infection.
+            
 
 ### Lightweigt processes required
 
