@@ -28,60 +28,16 @@ We bring as many people as possible together to provide facts to the public and 
 
 ### Required Actions
 
-- By the 17th of March, we have the basic processes and tools in place to start the project
-- By the 18th of March we start recruiting people to join the project
-- By the 21th of March 2020, we provide at least five data sets to the public
-- By the 24th of March 2020, we have recruited the committee, made up of at least five researchers from various disciplines and data professionals
+- By the 19th of March, we have the basic processes and tools in place to start the project
+- By the 20th of March we start recruiting people to join the project
+- By the 23th of March 2020, we provide at least five data sets to the public
+- By the 25th of March 2020, we have recruited the committee, made up of at least five researchers from various disciplines and data professionals
+
+### How to kick-off project Athena
+
+Everybody willing to contribute, please join our Slack workspace via the invite:
+
+https://join.slack.com/t/projectathenaco/shared_invite/zt-cuthlqb8-NVXrCnmROwCMS55mOcEgvA
 
 
-### Workstreams and Bootstrapping Hypothesis
-
-1. **"What we observe"**
-    * **Observations and assumptions** 
-    
-        Based on publicly available data from affected countries on infected, death and recovered cases, the spread seems to follow an exponential growth path. 
-        However differences between countries exist in growth factors, fatality, speed of recovery, ratios between various measurements, time lags, testing and many more. 
-        
-    * **Hypothesis**
-    
-        1. The virus is spreading at an exponential rate of 1.2 day to day.
-        2. Mortality is non-homogenous across countries or regions, varies significantly between countries
-  
-
-2. **"What we suspect"**
-    * **Observations and assumptions**
-        
-        Not everyone with a SARS-CoV-2 infection will feel ill. Some people may even contract the virus and not develop symptoms. When there are symptoms, they’re usually mild and tend to come on slowly. There are estimates taht 50% of cases of the coronavirus disease (COVID-19) take an asymptomatic course. Therefore a lot of cases have gone unnoticed as wide-spread testing is not available.
-        
-    * **Hypothesis**
-    
-        1. The real number of infected people is 300% higher than officially reported numbers.
-        
-
-3. **"What we need to know"**
-    * **Observations and assumptions**
-    
-        COVID-19 seems to cause more severe symptoms in older adults and people with underlying health conditions, such as chronic heart or lung conditions. In some countries the age distribution of infected people does represent the general age distribution with the region or country.
-        In Italy, a country with a rather old population, a analysis found that of the 105 patients at that time who died from the virus, the average age was 81 years. This puts a 20-year gap between the average age of people who tested positive for the virus and the deceased.
-
-    * **Hypothesis**
-    
-        1. Mortality adjusted by age and country is below 1%
-        
-4. **"What we speculate"**
-    * **Observations and assumptions**
-        
-        Testing for SARS-CoV-2 has been limited and apparently only carried out for people who have shown severe symptoms. Switzerland for example only tests elderly and obviously sick people. The tests used so far have no reported statistics on their false positive or false negative percentages. The amount of deaths accounted to SARS-CoV-2 could be misleading if for example a lot of false positives are generated.
-        
-    * **Hypothesis**
-    
-        1. The differences in testing, widespread versus focused, lead to significant differences in case numbers (infected, recovered, deaths)
-        2. 50% of all deaths can not be directly linked to a SARS-CoV-2 infection.
-            
-
-### Lightweigt processes required
-
-- The committee needs to review and verify the work done on hypothesis. 
-- Individuals and teams need to compete on working on hypothesis and need to report their findings and work in a public forum.
-- The committee needs to decide on new hypothesis by accepting proposals and deciding upon them
-- The committee needs to promote and publish the findings
+The [kick-off page](kick-off.md) summarizes what we will do to get started.
