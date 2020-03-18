@@ -68,6 +68,6 @@ For each of these work streams, we will need a lead person who will drive and co
     2. Register the phones in an anonymous way a allow hospitals to map phones to beds or patients.
     3. Display breathing sounds to doctors.
     
-    Next steps:
+    Next iterations:
     
     1. Analyse breathing sounds and implement change point detection which can trigger alerts.
