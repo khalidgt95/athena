@@ -21,10 +21,10 @@ We bring as many people as possible together to provide facts to the public and 
 ### Our strategies
 
 - We provide public access to high quality and daily updated data sets
-- We publicly share sound and validated knowledge 
+- We publicly share sound and validated knowledge and co-operate with other initiatives as much as we can 
 - We form a multi-disciplinary committee consisting of researchers and data professional that guides and coordinates research and infrastructure work
 - We formulate hypothesis that multiple individuals or teams can work on in parallel
-- We provide maximum transparency on how we derive testable, scientific hypothesis
+- We provide maximum transparency on how we derive testable, scientific hypothesis. Tasks can be picked up to work on testing the hypothesis.
 - We encourage anybody to submit new hypothesis and to contribute to the project
 - We are constantly adjusting our processes to foster the highest impact possible given our scarce resources as a non-profit project
 
@@ -51,6 +51,5 @@ Before you join, please stick to the following Slack usage guidelines:
     1. questions_and_answers for any kind of information based on your questions 
     2. improvements for suggestions and discussions around project Athena and how to improve it
  
-
 
 The [kick-off page](kick-off.md) summarizes what we will do to get started.
