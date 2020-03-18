@@ -12,7 +12,7 @@ A short reminder - project Athena aims to focus efforts to provide actionable in
 6. **Supporting processes and tools** - Communication and documentation infrastructure needs to be setup. How do we enable maximum autonomy for individuals and teams whilst keeping an overview of our initiatives.
 7. **Athena committee** - who will participate and how will the committee work, what is the cadence of meetings and which meetings will we need?
 
-For each of these work streams, we will need a lead person who will drive and coordinate the work and will participate in the Athena committee. 
+For each of these work streams, we will need a lead person who will drive and coordinate the work and will participate in the Athena committee. The Athena committee will maintain a website, for now https://github.com/alexander-stage/athena.
 
 ## Potential Bootstrapping Hypothesis
 
