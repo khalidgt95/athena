@@ -10,11 +10,12 @@ United, we defeat the SARS-CoV-2 virus
 
 ### Our mission
 
-We bring as many people as possible together to provide facts to the public and to support decision making on how to deal with the breakout in a highly coordinated and efficient way.
+We bring as many people as possible together to provide facts to the public and to support decision making on how to deal with the breakout in a highly coordinated and efficient way. Actionable insights may also lead to the fast development of products that help fight the virus.
 
 ### Our objectives
 
-- By the 10th of April 2020, we will have delivered on at least 5 testable hypothesis
+- By April 10th of 2020, we will have delivered on at least 5 testable hypothesis
+- By April 25th of 2020, we will have developed one minimum viable product to help fight the virus
 
 ### Our strategies
 
@@ -38,6 +39,5 @@ We bring as many people as possible together to provide facts to the public and 
 Everybody willing to contribute, please join our Slack workspace via the invite:
 
 https://join.slack.com/t/projectathenaco/shared_invite/zt-cuthlqb8-NVXrCnmROwCMS55mOcEgvA
-
 
 The [kick-off page](kick-off.md) summarizes what we will do to get started.
