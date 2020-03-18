@@ -15,8 +15,8 @@ We bring as many people as possible together to provide facts to the public and 
 
 ### Our objectives
 
-- By April 10th of 2020, we will have delivered on at least 5 testable hypothesis
-- By April 25th of 2020, we will have developed one minimum viable product to help fight the virus
+- By April 10th of 2020, we will have delivered on at least 5 [testable hypothesis](kick-off.md)
+- By April 25th of 2020, we will have developed one [minimum viable product](kick-off.md) to help fight the virus
 
 ### Our strategies
 
@@ -49,7 +49,7 @@ Before you join, please stick to the following Slack usage guidelines:
 4. The "announcements" Slack channel is for announcements only. Announcements are done by the Athena committee. Discussions happen in more specific channels. 
 5. There are two general channels for you to get guidance and help:
     1. questions_and_answers for any kind of information based on your questions 
-    2. improvements for suggestions and discussions around project Athena and how to improve it
+    2. improvements for suggestions and discussions around project Athena and how to improve it.
  
 
 The [kick-off page](kick-off.md) summarizes what we will do to get started.

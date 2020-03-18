@@ -58,3 +58,16 @@ For each of these work streams, we will need a lead person who will drive and co
         1. The differences in testing, widespread versus focused, lead to significant differences in case numbers (infected, recovered, deaths)
         2. 50% of all deaths can not be directly linked to a SARS-CoV-2 infection.
             
+## Product Ideas
+
+1. **Mobile phone based monitoring system (for hospitals)** - COVID-19 may affect the lungs causing pneumonia. In those most severely affected, COVID-19 may rapidly progress to acute respiratory distress syndrome causing respiratory failure. When the disease progresses to this critical state, our hypethesis is that breathing sounds change giving an potentially early indicator for doctors to change the treatment.
+
+    Minimum viable product: 
+    
+    1. Use patients mobile phone to record breathing sounds. 
+    2. Register the phones in an anonymous way a allow hospitals to map phones to beds or patients.
+    3. Display breathing sounds to doctors.
+    
+    Next steps:
+    
+    1. Analyse breathing sounds and implement change point detection which can trigger alerts.
