@@ -4,6 +4,7 @@ At project Athena, volunteers join forces to fight the SARS-CoV-2 virus. We deli
 
 Instead of plenty of individuals doing similar work over and over again, we create a platform to share data and knowledge. A cross-functional committee continuously derives new hypothesis from the collected knowledge. Single contributors and teams can choose to work on the hypothesis and publish their results. 
 
+This website is our main tool to provide access to the project and to document and disseminate our results, insights and products.
 ### Our vision
 
 United, we defeat the SARS-CoV-2 virus
@@ -39,5 +40,17 @@ We bring as many people as possible together to provide facts to the public and 
 Everybody willing to contribute, please join our Slack workspace via the invite:
 
 https://join.slack.com/t/projectathenaco/shared_invite/zt-cuthlqb8-NVXrCnmROwCMS55mOcEgvA
+
+Before you join, please stick to the following Slack usage guidelines:
+
+1. We do not use Slack to store documents and data, Slack is our communication channel
+2. If there is something that is bothering you about Slack or our tooling, please refer to the improvements channel or discuss matters in relevant channels.
+3. We do not use Slack for documentation purposes, documentation is done on this website or other sites that we link.
+4. The "announcements" Slack channel is for announcements only. Announcements are done by the Athena committee. Discussions happen in more specific channels. 
+5. There are two general channels for you to get guidance and help:
+    1. questions_and_answers for any kind of information based on your questions 
+    2. improvements for suggestions and discussions around project Athena and how to improve it
+ 
+
 
 The [kick-off page](kick-off.md) summarizes what we will do to get started.

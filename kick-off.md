@@ -7,7 +7,7 @@ A short reminder - project Athena aims to focus efforts to provide actionable in
 1. **Information gathering** - collect information on latest research on SARS-CoV-2, especially medical and epidemiological work 
 2. **Need identification** - identify research and product development needs. We reach out to research communities or other groups and identify stakeholders who have a need that we can deliver upon
 3. **Postulate hypothesis** - collect and decide upon hypothesis to evaluate
-4. **Data infrastructure** - Provide high quality data so hypothesis can be tested - we collect data 
+4. **Data baseline** - Provide access to high quality data so hypothesis can be tested - we collect data for use cases only! 
 5. **Review and publish** - Review our research results and publish them for external feedback
 6. **Supporting processes and tools** - Communication and documentation infrastructure needs to be setup. How do we enable maximum autonomy for individuals and teams whilst keeping an overview of our initiatives.
 7. **Athena committee** - who will participate and how will the committee work, what is the cadence of meetings and which meetings will we need?
