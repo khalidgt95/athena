@@ -34,10 +34,10 @@ We bring as many people as possible together to provide facts to the public and 
 
 ## Required Actions
 
-- By the 19th of March, we have the basic processes and tools in place to start the project
-- By the 20th of March we start recruiting people to join the project
-- By the 23th of March 2020, we provide at least five data sets to the public
-- By the 25th of March 2020, we have recruited the committee, made up of at least five researchers from various disciplines and data professionals
+- By 19th of March, we have the basic processes and tools in place to start the project
+- By 20th of March we start recruiting people to join the project
+- By 23th of March 2020, we provide at least five data sets to the public
+- By 25th of March 2020, we have recruited the committee, made up of at least five researchers from various disciplines and data professionals
 
 ## How to kick-off project Athena
 
