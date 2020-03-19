@@ -1,24 +1,28 @@
 # Project Athena
 
-At project Athena, volunteers join forces to fight the SARS-CoV-2 virus. We deliver actionable insights from highly focused and joint research and data analysis efforts. 
+At project Athena, volunteers join forces to fight the SARS-CoV-2 virus. Instead of plenty of individuals doing similar work over and over again, we focus our efforts to create real impact! **We deliver actionable insights and built digital products that will bring SARS-CoV-2 down.**
 
-Instead of plenty of individuals doing similar work over and over again, we create a platform to share data and knowledge. A cross-functional committee continuously derives new hypothesis from the collected knowledge. Single contributors and teams can choose to work on the hypothesis and publish their results. 
+You can join us via Slack: 
 
-This website is our main tool to provide access to the project and to document and disseminate our results, insights and products.
-### Our vision
+https://join.slack.com/t/projectathenaco/shared_invite/zt-cuthlqb8-NVXrCnmROwCMS55mOcEgvA
 
-United, we defeat the SARS-CoV-2 virus
+We are currently focusing our efforts on [these hypothesis](working-hypothesis.md) and [products](products.md)
 
-### Our mission
+
+## Our vision
+
+We defeat the SARS-CoV-2 virus
+
+## Our mission
 
 We bring as many people as possible together to provide facts to the public and to support decision making on how to deal with the breakout in a highly coordinated and efficient way. Actionable insights may also lead to the fast development of products that help fight the virus.
 
-### Our objectives
+## Our objectives
 
 - By April 10th of 2020, we will have delivered on at least 5 [testable hypothesis](kick-off.md)
 - By April 25th of 2020, we will have developed one [minimum viable product](kick-off.md) to help fight the virus
 
-### Our strategies
+## Our strategies
 
 - We provide public access to high quality and daily updated data sets
 - We publicly share sound and validated knowledge and co-operate with other initiatives as much as we can 
@@ -28,14 +32,14 @@ We bring as many people as possible together to provide facts to the public and 
 - We encourage anybody to submit new hypothesis and to contribute to the project
 - We are constantly adjusting our processes to foster the highest impact possible given our scarce resources as a non-profit project
 
-### Required Actions
+## Required Actions
 
 - By the 19th of March, we have the basic processes and tools in place to start the project
 - By the 20th of March we start recruiting people to join the project
 - By the 23th of March 2020, we provide at least five data sets to the public
 - By the 25th of March 2020, we have recruited the committee, made up of at least five researchers from various disciplines and data professionals
 
-### How to kick-off project Athena
+## How to kick-off project Athena
 
 Everybody willing to contribute, please join our Slack workspace via the invite:
 
