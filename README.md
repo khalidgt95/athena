@@ -6,6 +6,8 @@ You can join us via Slack:
 
 https://join.slack.com/t/projectathenaco/shared_invite/zt-cuthlqb8-NVXrCnmROwCMS55mOcEgvA
 
+We are very thankful to [**Slack**](https://slack.com/)! Within minutes, they upgraded us to their standard plan for **free**!
+
 We are currently focusing our efforts on [these hypothesis](working-hypothesis.md) and [products](products.md)
 
 
