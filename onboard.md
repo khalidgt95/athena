@@ -4,7 +4,7 @@ Project Athena has a very simple structure. The Athena committtee coordinates al
 
 The committee does not give instruction what to do. **Athena relies on lateral leadership exercised by everybody**. Everybody joining needs to actively engage and needs to be willing to lead initiatives on various levels.
 
-##How can that be achieved?
+## How can that be achieved?
 
 1. We work on testing hypothesis that help fight the SARS-CoV-2 virus.
 2. We discuss and develop hypothesis in the Slack channel #postulatehypothesis
