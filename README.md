@@ -8,8 +8,11 @@ https://join.slack.com/t/projectathenaco/shared_invite/zt-cuthlqb8-NVXrCnmROwCMS
 
 We are very thankful to [**Slack**](https://slack.com/)! Within minutes, they upgraded us to their standard plan for **free**!
 
-We are currently focusing our efforts on [these hypothesis](working-hypothesis.md) and [products](products.md)
+Getting started - how to?
 
+1. **for fast [on-boarding, please read this!](onboard.md)** 
+2. We are currently focusing our efforts on [these hypothesis](working-hypothesis.md) and [products](products.md)
+3. Read our [latest news](latest-news.md)
 
 ## Our vision
 
