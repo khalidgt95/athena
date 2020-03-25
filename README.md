@@ -11,7 +11,7 @@ We are very thankful to [**Slack**](https://slack.com/)! Within minutes, they up
 Getting started - how to?
 
 1. **for fast [on-boarding, please read this!](onboard.md)** 
-2. We are currently focusing our efforts on [these hypothesis](working-hypothesis.md) and [products](products.md)
+2. We are currently focusing our efforts on [these hypotheses](working-hypothesis.md) and [products](products.md)
 3. Read our [latest news](latest-news.md)
 
 ## Our vision
@@ -24,7 +24,7 @@ We bring as many people as possible together to provide facts to the public and 
 
 ## Our objectives
 
-- By April 10th of 2020, we will have delivered on at least 5 [testable hypothesis](kick-off.md)
+- By April 10th of 2020, we will have delivered on at least 5 [testable hypotheses](kick-off.md)
 - By April 25th of 2020, we will have developed one [minimum viable product](kick-off.md) to help fight the virus
 
 ## Our strategies
@@ -32,9 +32,9 @@ We bring as many people as possible together to provide facts to the public and 
 - We provide public access to high quality and daily updated data sets
 - We publicly share sound and validated knowledge and co-operate with other initiatives as much as we can 
 - We form a multi-disciplinary committee consisting of researchers and data professional that guides and coordinates research and infrastructure work
-- We formulate hypothesis that multiple individuals or teams can work on in parallel
-- We provide maximum transparency on how we derive testable, scientific hypothesis. Tasks can be picked up to work on testing the hypothesis.
-- We encourage anybody to submit new hypothesis and to contribute to the project
+- We formulate hypotheses that multiple individuals or teams can work on in parallel
+- We provide maximum transparency on how we derive testable, scientific hypotheses. Tasks can be picked up to work on testing the hypotheses.
+- We encourage anybody to submit new hypotheses and to contribute to the project
 - We are constantly adjusting our processes to foster the highest impact possible given our scarce resources as a non-profit project
 
 ## Required Actions
