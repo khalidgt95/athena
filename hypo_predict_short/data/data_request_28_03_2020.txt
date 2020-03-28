@@ -1,0 +1,10 @@
+1- Do we have daily basis updated historical data sets? They can be city, state or country based aggregated numbers.
+Probably most important ones can be total number of infected, death, recovered people count, number of tests done etc.
+Any information is welcomed.
+2- Static data like census data, hospital counts, bed counts, doctor counts, gender counts, age groups in cities,
+states or countries etc.
+3- Dates when governments make serious public announcements like quarantine, social distancing etc. I am talking about
+big announcements not daily talks. A good example is Merkel did 2 weeks ago. This information is valuable to detect
+change points in time series.
+4- All the information above with geospatial information if available.
+5- Do we have a centric database to store the data or just csv files? Or even a dfs which is updated regularly?
